@@ -1,2 +1,2 @@
 # mod3_solution
-Enriquemod3_solution
+Enrique's mod3_solution
