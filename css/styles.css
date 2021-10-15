@@ -1,0 +1,85 @@
+body {
+    font-size: 16px;
+    font-family: 'URW Chancery L', cursive;
+    color: #1a1a1a;
+    background-color: #FFFFFF;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #808080;
+}
+
+.navbar-collapse {
+    border-top: 0;
+}
+
+.navbar-brand, .navbar-nav li a {
+    line-height: 75px;
+    height: 75px;
+    padding-top: 0;
+}
+
+.navbar-brand h1 {
+    color: black;
+    font-family: 'URW Chancery L', cursive;
+    font-weight: bolder;
+    font-size: 1.8em;
+}
+
+.navbar-brand a:hover {
+    text-decoration: none;
+    text-shadow: 1px 1px 1px #000000;
+}
+
+#header-nav {
+    background-color: grey;
+    border-radius: 0;
+    border: 0;
+}
+
+#header-nav button {
+    margin-top: 23px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid #000000;
+}
+
+#nav-list {
+    background-color: grey;
+}
+
+#nav-list a {
+    font-weight: bolder;
+    color: #000000;
+    font-size: 1.2em;
+}
+
+#nav-list a:hover {
+    color: #000000;
+    background-color: grey;
+}
+
+
+#main-content {
+    width: 95%;
+    margin-bottom: 40px;
+}
+
+#main-content h2 {
+    font-size: 2.9em;
+    font-weight: bold;
+    margin-top: 29px;
+    margin-bottom: 49px;
+}
+
+#main-content h3 {
+    font-size: 1.6em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+#main-section {
+    background-color: grey;
+    padding: 29px;
+}
